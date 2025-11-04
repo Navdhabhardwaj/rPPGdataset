@@ -20,11 +20,10 @@ Sample Data
 
 Below are examples of available modalities:
 
-| Sample Type        | Description                          | Example                                                     |
-| ------------------ | ------------------------------------ | ----------------------------------------------------------- |
-| `video_sample.mp4` | Raw RGB facial recording             |                                                             |
-| `bvp_sample.csv`   | Ground-truth PPG waveform            |                                                             |
-| `metadata.json`    | Subject info (age, gender, lighting) | `{ "subject_id": "P001", "age": 26, "lighting": "indoor" }` |
+
+<p align="center">
+  <img src="images/frame_0001.png" alt="Sample Frame" width="500">
+</p>
 
 ---
 
