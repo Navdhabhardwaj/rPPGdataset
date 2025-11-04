@@ -23,6 +23,9 @@ Below are examples of available modalities:
 
 <p align="center">
   <img src="images/frame_0001.png" alt="Sample Frame" width="500">
+  <img src="images/frame_0061.png" alt="Sample Frame" width="500">
+  <img src="images/frame_0113.png" alt="Sample Frame" width="500">
+  <img src="images/frame_3903.png" alt="Sample Frame" width="500">
 </p>
 
 ---
