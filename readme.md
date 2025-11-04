@@ -1,4 +1,4 @@
-**A New Diverse Dataset for rPPG Estimation, and Benchmarking with Standard Frameworks**
+<font size="6"><b>A New Diverse Dataset for rPPG Estimation, and Benchmarking with Standard Frameworks</b></font>
 
 Description
 
@@ -57,6 +57,6 @@ Acknowledgement
 We acknowledge the support of the Visual Computing Lab, Indian Institute of Technology Mandi, and all volunteers who participated in the data collection process.
 For this study, the dataset is available for other researchers upon request.
   journal   = {ACM ICVGIP Proceedings},
-  url       = {https://github.com/your-repo/drppg-dataset}
+  url       = {https://github.com/Navdhabhardwaj/rPPGdataset}
 }
 ```
