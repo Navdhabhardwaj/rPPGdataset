@@ -3,14 +3,13 @@
 Description
 
 This repository contains the **Diverse rPPG Dataset (rPPG-25)** — a novel dataset of north Indian participants curated to advance research in **remote photoplethysmography (rPPG)** and physiological signal estimation from facial videos.
-The dataset comprises **high-resolution facial recordings** under varied conditions including illumination, skin tone and emotional expression diversity. Each video sample is synchronized with corresponding **ground-truth RR intervals** acquired via a contact sensor.
+The dataset comprises **high-resolution facial frames** under varied conditions including illumination, skin tone and emotional expression diversity. Each sample is synchronized with corresponding **ground-truth RR intervals** acquired via a contact sensor.
 
 Key Features:
 
-* Participants: 46 individuals (balanced gender ratio, diverse age range)
+* Participants: 46 individuals 
 * Resolution: 1080p @ 30 fps
-* Duration: ~2 minutes per video
-* Modalities: RGB video, contact PPG, metadata (age, gender, skin tone)
+* Modalities: RGB video, RR intervals, metadata (age, gender, skin tone)
 
 The dataset aims to benchmark algorithms for heart rate estimation, pulse waveform reconstruction, and robustness analysis across demographics.
 
@@ -50,7 +49,7 @@ If you use this dataset in your research, please cite:
   title     = {A New Diverse Dataset for rPPG Estimation},
   author    = {Navdha Bhardwaj and Arnav Bh
   journal   = {ACM ICVGIP Proceedings},
-  url       = {https://github.com/your-repo/drppg-dataset}
+  url       = {https://github.com/Navdhabhardwaj/rPPGdataset}
 }
 
 Acknowledgement
