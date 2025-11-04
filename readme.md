@@ -2,8 +2,8 @@
 
 Description
 
-This repository contains the **Diverse rPPG Dataset (DrPPG-25)** — a novel dataset curated to advance research in **remote photoplethysmography (rPPG)** and physiological signal estimation from facial videos.
-The dataset comprises **high-resolution facial recordings** under varied conditions including illumination, skin tone, head motion, and emotional expression diversity. Each video sample is synchronized with corresponding **ground-truth RR intervals** acquired via a contact sensor.
+This repository contains the **Diverse rPPG Dataset (rPPG-25)** — a novel dataset of north Indian participants curated to advance research in **remote photoplethysmography (rPPG)** and physiological signal estimation from facial videos.
+The dataset comprises **high-resolution facial recordings** under varied conditions including illumination, skin tone and emotional expression diversity. Each video sample is synchronized with corresponding **ground-truth RR intervals** acquired via a contact sensor.
 
 Key Features:
 
