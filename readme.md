@@ -45,9 +45,9 @@ To request access:
 If you use this dataset in your research, please cite:
 
 ```
-@dataset{navdha2025drppg,
+@dataset{navdha2025rppg,
   title     = {A New Diverse Dataset for rPPG Estimation},
-  author    = {Navdha Bhardwaj and Arnav Bh
+  author    = {Navdha Bhardwaj
   journal   = {ACM ICVGIP Proceedings},
   url       = {https://github.com/Navdhabhardwaj/rPPGdataset}
 }
