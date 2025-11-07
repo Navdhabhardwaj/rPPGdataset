@@ -32,7 +32,7 @@ Download
 The dataset is available for research purposes.
 To request access:
 
-1. Email your application to d23229@students.iitmandi.ac.in with the subject line:
+1. Email your application to navdhabhardwaj009@gmail.com with the subject line:
    `Dataset Access Request – rPPG-25`
 2. Upon approval, you will receive a download link.
 
