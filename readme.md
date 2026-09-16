@@ -1,11 +1,11 @@
 Description
 ---
-This repository contains the Diverse rPPG Dataset, collected from North Indian participants for rPPG and physiological signal research. The original data were collected as high-resolution facial videos. To protect participant privacy, the research-access release does not contain the original facial images or videos. Instead, it provides ROI-level RGB temporal signals and ground-truth RR intervals.
+This repository contains the Diverse rPPG Dataset, collected from North Indian participants for rPPG and physiological signal research. The original data were collected as high-resolution facial videos. To protect participant privacy, the research-access release does not contain the original facial images or videos. Instead, it provides ROI-level frame-wise mean RGB temporal measurements and ground-truth RR intervals.
 
 Key Features:
 ---
 1. Acquisition: 1080p @ 30 fps
-2. Released data: ROI-level RGB signals + RR intervals
+2. Released data: ROI-level frame-wise mean RGB measurements + RR intervals
 3. Ground truth: emWave Pro
 
 
@@ -13,7 +13,7 @@ Sample Data
 ---
 The privacy-preserving release contains the following data modalities:
 
-1. ROI-level RGB temporal signals
+1. ROI-level frame-wise mean RGB temporal measurements
 2. RR interval ground truth
 
 No original facial images or videos are included in this release.
@@ -21,7 +21,7 @@ No original facial images or videos are included in this release.
 Data Format and Alignment — Please Read Before Use
 ---
 The privacy-preserving release provides ROI-level RGB temporal signals and RR interval values (in milliseconds) as two separate streams for each subject.
-1. The ROI-level RGB data are frame-wise temporal measurements.
+1. The ROI-level RGB data are frame-wise temporal measurements, where each frame contains the mean R,G and B intensity values computed within predefined facial regions of interest.
 2. The RR intervals are beat-to-beat measurements obtained from the emWave Pro sensor.
 3. Individual RR values are not timestamped at the video-frame level.
 4. Researchers should not attempt to align a single RR value with a single frame or individual RGB sample.
