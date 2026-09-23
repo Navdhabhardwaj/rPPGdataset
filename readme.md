@@ -34,7 +34,7 @@ The dataset is available for non-commercial academic research purposes. To reque
 1. Email to navdhabhardwaj009@gmail.com with the subject line:`Dataset Access Request – rPPG-26`.
 2. Once we receive the completed and signed form, we will provide access to the privacy-preserving dataset.
 
-> Note: This dataset is intended for non-commercial academic research only. The released data do not include the original facial images or videos.
+> Note: This dataset is intended for academic research purposes only. The released data do not include the original facial images or videos.
 
 ---
 
