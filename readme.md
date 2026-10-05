@@ -29,12 +29,14 @@ The privacy-preserving release provides ROI-level RGB temporal signals and RR in
 
 Download
 ---
-The dataset is available for non-commercial academic research purposes. To request access:
+Important Notice
+1. We only accept requests from academic institutions.
+2. Requests from companies cannot be considered, due to privacy restrictions.
+
+The dataset is available for academic research purposes. To request access:
 
 1. Email to navdhabhardwaj009@gmail.com with the subject line:`Dataset Access Request – rPPG-26`.
-2. Once we receive the completed and signed form, we will provide access to the privacy-preserving dataset.
-
-> Note: This dataset is intended for academic research purposes only. The released data do not include the original facial images or videos.
+2. Once we receive the completed and signed form, we will provide access to the dataset. The released data do not include the original facial images or videos.
 
 ---
 
